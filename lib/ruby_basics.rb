@@ -2,9 +2,9 @@ def division(num1, num2)
  return num1/num2
 end
 
-def assign_variable(value)
-  value = new_value
-  return new_value
+def assign_variable(name)
+  var = name
+  return var
 end
 
 def argue(example)
